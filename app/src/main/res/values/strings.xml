@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gmail</string>
+    <string name="gmail">Gmail</string>
+    <string name="Gmail">Gmail</string>
+    <string name="header">Header</string>
+    <string name="Enter_text" />
+    <string name="SEND" />
+    <string name="Header" />
+    <string name="header1">Header</string>
+    <string name="sms">SMS</string>
+    <string name="SEND1">SEND</string>
+</resources>
